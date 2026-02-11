@@ -1,0 +1,11 @@
+body {
+  font-family: system-ui, sans-serif;
+  color: var(--color-text);
+  line-height: 1.5;
+}
+
+.container {
+  max-width: var(--container-width);
+  margin: 0 auto;
+  padding: 0 16px;
+}
